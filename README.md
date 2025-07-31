@@ -31,24 +31,11 @@ I specialize in developing security tools, system hardening, and creating applic
 
 ## Featured Projects
 
-### [Linux Startup Optimizer](https://github.com/planetsaint/linux-startup-optimizer)
-Security-focused boot optimization tool with rollback functionality. Designed for hardening Linux systems while maintaining performance and providing forensic-safe rollback capabilities.
-
 ### [Secure File Encryption](https://github.com/planetsaint/secure-file-encryption) 
 High-performance, multi-threaded AES-256-CBC encryption tool for Windows. Built with operational security in mind, featuring secure memory handling and anti-forensic capabilities.
 Supports payload injection and obfuscation techniques.
 
 ### [Windows Background App](https://github.com/planetsaint/windows-background-app)
 Stealth Windows application with advanced evasion capabilities. Demonstrates sophisticated techniques for maintaining persistence while avoiding detection through shelter injection and system-level programming.
-
-## Philosophy
-
-I believe in building tools that prioritize both security and operational effectiveness. Whether developing defensive security measures or researching offensive capabilities, my focus is on creating robust, undetectable solutions that push the boundaries of what's possible in cybersecurity.
-
-## Let's Connect
-
-Shoot me a message, I'm always willing to learn.
-
----
 
 *"The quieter you become, the more you can hear"*
